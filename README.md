@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @luiz-eduardo-dev
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning App development and IoT
+- 👀 Interested in programming
+- 🌱 Currently learning HTML, CSS and JS
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: luizeduardolopescandido@gmail.com
+- Many thanks for coming!
 
 <!---
 luiz-eduardo-dev/luiz-eduardo-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
