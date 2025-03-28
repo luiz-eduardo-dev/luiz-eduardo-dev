@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luiz-eduardo-dev
 
-- 👀 I'm a FrontEnd dev
+- 👀 I'm a FrontEnd and application developer
 
 - 🌱 Currently focusing in HTML, CSS and JS languages
 
